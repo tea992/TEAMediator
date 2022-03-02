@@ -1,0 +1,16 @@
+PODS:
+  - TEAMediator (0.1.0)
+
+DEPENDENCIES:
+  - TEAMediator (from `../`)
+
+EXTERNAL SOURCES:
+  TEAMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TEAMediator: 435469dc551ceae65c51ccaa299aab77cec7a355
+
+PODFILE CHECKSUM: 65663718a44801dc19204ad10e20e172dde66b08
+
+COCOAPODS: 1.11.2
